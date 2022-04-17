@@ -6,7 +6,7 @@
 ---
 
 ## Setup
-1
+12
 ### Prep work
 
 1. Create a new public GitHub Gist (https://gist.github.com/)
